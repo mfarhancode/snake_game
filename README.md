@@ -1,4 +1,4 @@
-# Snake Game
+# Screen-Wrapping Snake Game
 
 A classic 2D Snake game built in Python using Object-Oriented Programming (OOP) and the native `turtle` graphics module.
 
